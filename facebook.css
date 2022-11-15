@@ -1,5 +1,5 @@
 img{
-    border-radius: 50%;
+    border-radius: 10%;
 }
 #scroll{
     height: 500px;
@@ -16,4 +16,18 @@ img{
 
 h8{
     font-size: 15px;
+}
+#story{
+    background-image: url('images/story.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10%;
+    height: 160px;
+    width: 100px;
+    border:  solid white;
+}
+#botom{
+    color: white;
+    background-color: white;
+    
 }
